@@ -4,7 +4,7 @@ __pycache__
 *.pyd
 hubert_base.pt
 /logs
-.venv
+venv
 /opt
 tools/aria2c/
 tools/flag.txt
